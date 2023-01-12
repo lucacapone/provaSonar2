@@ -1,4 +1,4 @@
-package Sonar2;
+package pippo;
 
 public class Sonar2 {
     // metodo somma
