@@ -6,7 +6,7 @@ public class Sonar2 {
         numero= numero + numero;
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int numero;
         numero = 4;
         Sonar2 s = new Sonar2();
